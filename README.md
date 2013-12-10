@@ -3,7 +3,11 @@
 Git + GitHub
 =====
 
-Цель задания изучить принцыпы работы git. Документацию брать [здесь](http://git-scm.com/documentation). Помощь по GitHub'у брать [здесть](https://help.github.com/)
+Цель задания изучить принцыпы работы git. 
+
+Документация и литература:
+- докуметация по Git [здесь](http://git-scm.com/documentation)
+- help по GitHub [здесь](https://help.github.com/)
 
 #### Задание:
 Скоро придумаем
