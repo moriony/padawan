@@ -5,7 +5,7 @@ Git + GitHub
 
 Цель задания изучить принцыпы работы git. 
 
-Документация и литература:
+#### Документация и литература:
 - докуметация по Git [здесь](http://git-scm.com/documentation)
 - help по GitHub [здесь](https://help.github.com/)
 
