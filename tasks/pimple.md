@@ -7,6 +7,10 @@ Pimple + Service Manager
 - [статья](http://habrahabr.ru/post/183658/) на хабре
 - [докуметация](http://pimple.sensiolabs.org/) по Pimple
 - немного о [паттернах](http://ru.wikipedia.org/wiki/Design_Patterns)
+- [фреймворк](http://silex.sensiolabs.org/) построеный на Pimple, можно найти много примеров использования контейнера Pimple
+ 
+####
+
 
 #### Задание 1:
 - создать новый репозиторий
