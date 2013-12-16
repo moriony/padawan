@@ -6,6 +6,7 @@ Pimple + Service Manager
 #### Документация и литература:
 - [статья](http://habrahabr.ru/post/183658/) на хабре
 - [докуметация](http://pimple.sensiolabs.org/) по Pimple
+- немного о [паттернах](http://ru.wikipedia.org/wiki/Design_Patterns)
 
 #### Задание 1:
 - создать новый репозиторий
