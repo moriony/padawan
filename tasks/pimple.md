@@ -7,8 +7,6 @@ Pimple + Service Manager
 - [статья](http://habrahabr.ru/post/183658/) на хабре
 - [докуметация](http://pimple.sensiolabs.org/) по Pimple
 
-
-
 #### Задание 1:
 - создать новый репозиторий
 - продемонстрировать умение пользоваться всеми возможностями Pimple
