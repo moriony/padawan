@@ -7,7 +7,7 @@
 - http://phpunit.de/manual/current/en/index.html
 - http://habrahabr.ru/post/87922/ (первая часть статьи, содержащая ссылки на остальные)
 - http://habrahabr.ru/post/56289/
-- http://habrahabr.ru/post/140217/ (внятная статься про mock)
+- http://habrahabr.ru/post/140217/ (внятная статья про mock)
 
 #### Вопросы для закрепления материала:
 - Что такое unit testing и зачем оно нужно?
