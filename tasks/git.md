@@ -6,6 +6,14 @@ Git + GitHub
 #### Документация и литература:
 - докуметация по Git [здесь](http://git-scm.com/documentation)
 - help по GitHub [здесь](https://help.github.com/)
+- Cheat Sheets:
+ - http://zrusin.blogspot.ru/2007/09/git-cheat-sheet.html
+ - http://overapi.com/git/
+ - http://jan-krueger.net/development/git-cheat-sheet-extended-edition
+ - http://www.quicklycode.com/cheatsheets/git-cheat-sheet-2
+ - http://www.git-tower.com/blog/git-cheat-sheet-detail/
+ - http://www.docstoc.com/docs/102658424/Git-Cheat-Sheet-(PDF-download)
+
 
 #### Вопросы для закрепления материала:
 - как создать новый репозиторий?
