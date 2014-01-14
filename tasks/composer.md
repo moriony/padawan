@@ -5,6 +5,7 @@ Composer
 #### Документация и литература:
 - официальная [документация](http://getcomposer.org/doc/)
 - [статья](http://habrahabr.ru/post/145946/) на Хабре
+- [composer workflow](http://adamcod.es/img/posts/composer-install-flow.png)
 
 #### Вопросы для закрепления материала:
 - что такое composer? зачем он нужен?
