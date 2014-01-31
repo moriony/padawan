@@ -13,7 +13,7 @@
 - [Первичный ключ](http://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%8E%D1%87)
 - [Внешний ключ](http://ru.wikipedia.org/wiki/%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BB%D1%8E%D1%87)
 - [Индексы базы данных](http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_(%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85))
-- [UML Entity Relationship Diagram](http://www.ibm.com/developerworks/rational/library/content/03July/2500/2785/2785_uml.pdf)
+- [UML Entity Relationship Diagram](http://citforum.ru/database/articles/umlbases.shtml), статья большая, читать по диагонали
 
 
 #### Вопросы для закрепления материала:
